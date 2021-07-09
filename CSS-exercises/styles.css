@@ -1,2 +1,11 @@
 ﻿body {
+    background-color : yellow;
+}
+p {
+    color : green;
+}
+#cool-text {
+   margin:auto;
+   text-align:center;
+   color: blue;
 }
